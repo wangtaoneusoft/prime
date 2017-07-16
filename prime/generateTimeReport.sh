@@ -1,0 +1,1 @@
+gcc -fprofile-arcs -ftest-coverage -o prime prime.c;./prime;gcov prime.c;lcov -d . -t 'prime' -o 'prime.info' -b . -c;genhtml -o result prime.info;

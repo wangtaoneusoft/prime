@@ -1,0 +1,26 @@
+TN:prime
+SF:/cygdrive/c/Users/wangtao/Documents/Visual Studio 2015/Projects/Prime/prime/prime.c
+FN:3,f_isPrime
+FN:18,main
+FNDA:999,f_isPrime
+FNDA:1,main
+FNF:2
+FNH:2
+DA:3,999
+DA:5,999
+DA:7,78190
+DA:9,78022
+DA:11,831
+DA:15,168
+DA:18,1
+DA:20,1
+DA:21,1
+DA:22,1
+DA:24,1000
+DA:26,999
+DA:29,168
+DA:33,1
+DA:35,1
+LF:15
+LH:15
+end_of_record
